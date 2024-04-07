@@ -6,7 +6,7 @@ export default async function Posts() {
         <main className="w-[80%] h-[80vh]  mx-auto">
             <AddForm/>
             <div className="w-[100%] h-[50px]  flex items-center py-10 justify-center ">
-                <h1 className="pl-3 text-4xl font-semibold">All posts</h1>
+                <h1 className="pl-3 text-4xl font-semibold">All post</h1>
             </div>
             <PostList />
         </main>
